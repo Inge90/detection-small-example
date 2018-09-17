@@ -10,3 +10,5 @@ Front face and smile detection is a small example with Python using  framework O
 
 Bring out only the blue color to the videos <br>
 ![screen shot 2018-09-17 at 12 58 54](https://user-images.githubusercontent.com/16709893/45617931-a878cc00-ba7c-11e8-966a-2eea1a31279b.png)
+
+Creating an artistic environment and bring out only white lines <br>
